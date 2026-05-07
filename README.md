@@ -43,7 +43,6 @@ I'm an embedded systems engineer who loves working close to the metal — real-t
 
 ## 📌 Featured Projects
 
-> *(These will show as pinned repos on your profile — update the names below!)*
 
 | Project | What it does |
 |--------|--------------|
@@ -51,14 +50,6 @@ I'm an embedded systems engineer who loves working close to the metal — real-t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yvijayvarghese&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvarghese&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
 
 <p align="center">
   <sub>Thanks for stopping by! Feel free to explore my repos or drop me a message 🙂</sub>
