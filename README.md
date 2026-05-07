@@ -17,8 +17,8 @@
 I'm an embedded systems engineer who loves working close to the metal — real-time systems, firmware, and making sure things run *exactly* when they're supposed to.
 
 - 🔧 Designing firmware with **Embedded C/C++** and **RTOS** (FreeRTOS / Zephyr / bare-metal)
-- 🚀 Currently working on: **[What you're building right now]**
-- 📚 Always learning: **[Something you're currently exploring]**
+- 🚀 Currently working on: **A star tracker — implementing star identification & attitude estimation on embedded hardware**
+- 📚 Always learning: **Spacecraft ADCS & attitude determination algorithms**
 - 💬 Happy to chat about: microcontrollers, schedulers, interrupt latency, or coffee ☕
 
 ---
